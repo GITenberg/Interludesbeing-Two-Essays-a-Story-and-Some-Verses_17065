@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7116'
     url: http://www.gutenberg.org/2009/agents/7116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17065#Interludesbeing-Two-Essays-a-Story-and-Some-Verses
 gutenberg_issued: '2005-11-14'
 gutenberg_type: Text
 identifiers:
